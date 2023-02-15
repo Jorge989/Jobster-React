@@ -165,7 +165,6 @@ ul {
 .btn-hipster {
   color: var(--primary-500);
   background: var(--primary-200);
-  margin-top: 10px;
 }
 .btn-hipster:hover {
   color: var(--primary-200);
@@ -177,16 +176,6 @@ ul {
 .btn-hero {
   font-size: 1.25rem;
   padding: 0.5rem 1.25rem;
-}
-.member-btn {
-  outline: 0;
-  border: none;
-  background-color: transparent;
-  color: var(--primary-700);
-  cursor: pointer;
-}
-.member-container {
-  text-align: center;
 }
 .btn-danger {
   background: var(--red-light);
